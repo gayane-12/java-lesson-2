@@ -1,6 +1,8 @@
-package oparators;
+package operators;
 
 public class ArithmeticRelationalLogicalAssignmentOperators {
+//    the class name seems like a bit long ))
+
     public static void main(String[] args) {
         int firstValue = 158;
         int secondValue = firstValue >= 200 ? 40 : 41;
